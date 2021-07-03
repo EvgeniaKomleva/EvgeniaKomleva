@@ -13,10 +13,10 @@ Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺
 ### 👾 BIO
 
 - 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Data Science** at [Skoltech](https://www.skoltech.ru/en/)
-- 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
+- 🌱 I'm currently learning **Natural Language Processing** along with **CV**
 - ⚙️ Mastering: `.py`
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
-- 📫 Ping me about **Python** its **codestyle**, **Discrete Maths**, **Applied Statistics** and **DS**
+- 📫 Ping me about **Python** its **codestyle**, **Applied Statistics** and **DS**
 - 🚗 Studying CV in context of **autonomous robots**. 
 ### 📧Get in Touch
 
