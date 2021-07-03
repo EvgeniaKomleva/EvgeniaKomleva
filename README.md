@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Evgenia Komleva 👋
 
-<!--
-**EvgeniaKomleva/EvgeniaKomleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-python:%20expert-ffdc7c?logo=python&style=for-the-badge&logoWidth=30&suffix=expert&logoColor=white)
+![SQL](https://img.shields.io/badge/data%20science:%20expert-ffaa67?&logo=postgresql&style=for-the-badge&logoWidth=30&suffix=expert)
+![Scala](https://img.shields.io/badge/-С/C++:%20intermediate-da674a?logo=scala&style=for-the-badge&logoWidth=30&suffix=expert&logoColor=white)
 
-Here are some ideas to get you started:
+Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CV Researcher passionate for ML and NLP Researcher at [ABBYY](https://www.abbyy.com/)\
+Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
+
+
+### 👾 BIO
+
+- 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Data Science** at [Skoltech](https://www.skoltech.ru/en/)
+- 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
+- ⚙️ Mastering: `.py`
+- 👯 I'm looking to collaborate on **Open Source** and **Case** projects
+- 📫 Ping me about **Python** its **codestyle**, **Discrete Maths**, **Applied Statistics** and **DS**
+- 🚗 Studying CV in context of **autonomous robots**. 
+### 📧Get in Touch
+
+[![My Telegram](https://img.shields.io/badge/-My%20telegram-2b4d59?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komochek0)  [![komleva.ep@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/evgenia-komleva-51081118a/) [![Github](https://img.shields.io/badge/-Github-da674a?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvgeniaKomleva)
+
+### 📚Looking for my CV? E-Mail me!
+
+![Evgenia Komleva's github stats](https://github-readme-stats.vercel.app/api?username=EvgeniaKomleva&show_icons=true&hide_border=true)
