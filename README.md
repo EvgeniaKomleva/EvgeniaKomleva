@@ -22,6 +22,5 @@ Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺
 
 [![My Telegram](https://img.shields.io/badge/-My%20telegram-2b4d59?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komochek0)  [![komleva.ep@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/evgenia-komleva-51081118a/) [![Github](https://img.shields.io/badge/-Github-da674a?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/EvgeniaKomleva)
 
-### 📚Looking for my CV? E-Mail me!
-
+### 📚You can find my CV here: [Komleva_CV.pdf](https://github.com/EvgeniaKomleva/CV/blob/master/Komleva_CV.pdf)
 ![Evgenia Komleva's github stats](https://github-readme-stats.vercel.app/api?username=EvgeniaKomleva&show_icons=true&hide_border=true)
