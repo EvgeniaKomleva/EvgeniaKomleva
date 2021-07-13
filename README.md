@@ -16,7 +16,7 @@ Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺
 - I'm currently learning **Natural Language Processing** along with **CV**
 - Mastering: `.py`
 - I'm looking to collaborate on **Open Source** and **Case** projects
-- Ping me about **Python** its **codestyle**, **Applied Statistics** and **DS**
+- Ping me about **Python** its **codestyle**, **NLP**, **CV** and **DS**
 - Studying CV in context of **autonomous robots**. 
 ### Get in Touch
 
