@@ -1,11 +1,7 @@
 # Hello, I'm Evgenia Komleva!
 
-![Python](https://img.shields.io/badge/-python:%20expert-ffdc7c?logo=python&style=for-the-badge&logoWidth=30&suffix=expert&logoColor=white)
-![SQL](https://img.shields.io/badge/data%20science:%20expert-ffaa67?&logo=postgresql&style=for-the-badge&logoWidth=30&suffix=expert)
-![Scala](https://img.shields.io/badge/-С/C++:%20intermediate-da674a?logo=scala&style=for-the-badge&logoWidth=30&suffix=expert&logoColor=white)
-
 CV Researcher passionate for ML and NLP Researcher at [ABBYY](https://www.abbyy.com/)\
-Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
+Fascinated by everything that's DS related. Proudly from Moscow, Russia.
 
 
 ### BIO
