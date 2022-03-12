@@ -1,7 +1,7 @@
 # Hello, I'm Evgenia Komleva!
 
 CV Researcher passionate for ML and NLP Researcher at [ABBYY](https://www.abbyy.com/)\
-Fascinated by everything that's DS related. Proudly from Moscow, Russia.
+Fascinated by everything that's DS related. 
 
 
 ### BIO
